@@ -1,0 +1,2 @@
+# compositeDesignPattern
+Lab Assignment 8 Composite Design Pattern
