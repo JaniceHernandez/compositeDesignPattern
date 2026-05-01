@@ -29,7 +29,7 @@ To manage this hierarchical structure efficiently, the **Composite Design Patter
 ---
 
 ## UML Class Diagram
-
+<img width="1916" height="1596" alt="compositeDesignPattern" src="https://github.com/user-attachments/assets/99029e55-f978-4029-b260-63c9acef4141" />
 
 ---
 
@@ -106,6 +106,20 @@ Responsibilities:
 * Calculates total students in the college
 * Calculates the overall budget
 * Displays the full structure of the college
+
+---
+
+6. Client Class (UniversityClient)
+
+The entry point of the system.
+
+Responsibilities:
+
+Creates Students, Teachers, Departments, and Colleges
+Builds the hierarchical structure
+Calls displayDetails()
+Prints total student count
+Prints total budget
 
 ---
 
